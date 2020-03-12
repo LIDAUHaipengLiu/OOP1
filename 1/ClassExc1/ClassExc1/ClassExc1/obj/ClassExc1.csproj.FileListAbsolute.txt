@@ -1,0 +1,10 @@
+C:\Users\blue\Desktop\面向对象--C#\Demo1\ClassExc1\ClassExc1\bin\Debug\ClassExc1.dll
+C:\Users\blue\Desktop\面向对象--C#\Demo1\ClassExc1\ClassExc1\bin\Debug\ClassExc1.pdb
+C:\Users\blue\Desktop\面向对象--C#\Demo1\ClassExc1\ClassExc1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\blue\Desktop\面向对象--C#\Demo1\ClassExc1\ClassExc1\obj\Debug\ClassExc1.dll
+C:\Users\blue\Desktop\面向对象--C#\Demo1\ClassExc1\ClassExc1\obj\Debug\ClassExc1.pdb
+F:\面向对象--C#\Demo2\ClassExc1\ClassExc1\bin\Debug\ClassExc1.dll
+F:\面向对象--C#\Demo2\ClassExc1\ClassExc1\bin\Debug\ClassExc1.pdb
+F:\面向对象--C#\Demo2\ClassExc1\ClassExc1\obj\Debug\ResolveAssemblyReference.cache
+F:\面向对象--C#\Demo2\ClassExc1\ClassExc1\obj\Debug\ClassExc1.dll
+F:\面向对象--C#\Demo2\ClassExc1\ClassExc1\obj\Debug\ClassExc1.pdb

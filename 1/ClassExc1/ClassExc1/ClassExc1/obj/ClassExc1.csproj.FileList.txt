@@ -1,0 +1,5 @@
+bin\Debug\ClassExc1.dll
+bin\Debug\ClassExc1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ClassExc1.dll
+obj\Debug\ClassExc1.pdb

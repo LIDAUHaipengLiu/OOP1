@@ -1,0 +1,4 @@
+C:\Users\wongl\Desktop\2017版面向对象\第一讲从面向过程编程向面向对象过渡\ClassExc1\ClassExc1\bin\Debug\ClassExc1.dll
+C:\Users\wongl\Desktop\2017版面向对象\第一讲从面向过程编程向面向对象过渡\ClassExc1\ClassExc1\bin\Debug\ClassExc1.pdb
+C:\Users\wongl\Desktop\2017版面向对象\第一讲从面向过程编程向面向对象过渡\ClassExc1\ClassExc1\obj\Debug\ClassExc1.dll
+C:\Users\wongl\Desktop\2017版面向对象\第一讲从面向过程编程向面向对象过渡\ClassExc1\ClassExc1\obj\Debug\ClassExc1.pdb
